@@ -42,7 +42,7 @@ const Contact = () => {
 
     return (
         <div id='contact'>
-            <form ref={form}>
+            <form ref={form}  action="https://fabform.io/f/8xokkrU" method="post">
             <section className="text-gray-700 body-font relative bg-green-200">
             <div className="container px-5 py-24 mx-auto">
             <div className="flex flex-col text-center w-full mb-12">
